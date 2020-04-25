@@ -1,0 +1,17 @@
+Anonymous Inner Class for implementing the functionality of run method.
+Lambdas for Anonymous Inner Classes
+Printing 35 % 13: 9
+Checking predicate for strContains: true
+Checking if integer is between 50(Inclusive) and 100(exclusive): false
+convert this sample string to lowercase
+The given String: SampleString has 12 characters.
+The given integer has: 7 digits.
+Printing 1234567 mod 10: 7
+Printing 7654321 div 10: 765432
+Integer value of 59.87 is: 59
+Hi there, Welcome back!
+Unit's digit of 1579 is: 9
+UPPERCASE
+Printing 14 * 7: 98
+Hello Medium!
+Printing 29 mod 6: 5
